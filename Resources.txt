@@ -1,0 +1,14 @@
+These are the libraries I used for the tutorial. Listed them in the way they can be used
+
+Sentiment analysis
+* textblob -> TextBlob
+
+Twitter access
+* tweepy
+
+Recommendation systems
+* lightfm -> LightFM
+
+Datasets
+* lightfm -> fetch_movielens
+* 
